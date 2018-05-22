@@ -3,7 +3,7 @@
 Compares the following three stochastic optimization methods to a myopic and leave-alone strategy for finding the optimal strategy to allocate additional but limited resources to detection threat analysis:
 
 * Adaptive Dynamic Programming (ADP_Table_Generator1.py)
-* Evolutionary Strategies (ES_rolling.py)
+* Evolutionary Strategies (ES_rolling2.py)
 * Non-Anticipativy Multi-stage Stochastic Programming (NonAnt.py)
 
 
